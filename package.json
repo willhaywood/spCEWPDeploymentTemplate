@@ -1,0 +1,24 @@
+{
+  "name": "wrhs-cewp-content",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "repository": {
+    "url": ""
+  },
+  "devDependencies": {
+    "gulp-changed": "^3.2.0",
+    "gulp-changed-in-place": "^2.3.0",
+    "gulp-spsave": "^3.1.0"
+  },
+  "dependencies": {
+    "axios": "^0.17.1",
+    "gulp": "^3.9.1",
+    "sp-pnp-js": "^3.0.7"
+  }
+}
